@@ -192,6 +192,10 @@ body {
     margin: 0 auto;
 }
 
+.kakao_ad_area {
+    margin: 4% auto;
+}
+
 .ad-banner {
     width: 320px;
     margin: 4% auto;
