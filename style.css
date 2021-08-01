@@ -200,6 +200,10 @@ body {
     width: 320px;
     margin: 4% auto;
 }
+.addthis_inline_share_toolbox {
+    margin:3% auto;
+    
+}
 .spinner-border {
     color: #ffffff;
 }
